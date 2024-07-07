@@ -1,0 +1,16 @@
+# Ignore environment configuration files
+.env
+
+# Ignore virtual environment directories
+venv/
+
+# Ignore IDE/Editor files
+.idea/
+__pycache__
+ccavenue/__pycache__
+ccavenue/log/__pycache__
+ccavenue/log/ccavenue.logs
+ccavenue/log/.logs
+
+# Ignore database files
+migrations/
